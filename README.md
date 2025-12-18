@@ -145,6 +145,5 @@ Future Improvements
 - Add monitoring and alerts
 
 
-Author
-Stella Ojiuba
+Author: Stella Ojiuba
 Cloud Project Coordinator | Junior Solutions Architect  
